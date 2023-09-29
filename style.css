@@ -1,0 +1,34 @@
+body{
+    color:pink;
+    background-image: url("giphy.gif");
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+.btn{
+    padding: 6px 12px;
+    background: pink;
+    border: none;
+    font-family: inherit;
+    font-weight: 800;
+
+}
+#hero{
+    
+    padding: 350px 0 40px 0;
+    text-align: center;
+
+
+}
+.ad{
+    border-bottom: 3px solid pink;
+    
+}
+#spacexlogo{
+    width: 250px;
+}
+
+#title{
+    text-shadow: 5px 5px 10px black;
+}
